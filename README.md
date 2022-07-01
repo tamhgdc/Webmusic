@@ -1,4 +1,4 @@
-# Xin Chào, Tôi là Tiến Đạt 👋 
+# Xin Chào, 👋 
 
 ## Chào Mừng tới dự án web nghe nhạc của tôi 👏
 
